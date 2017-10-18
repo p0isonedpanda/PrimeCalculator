@@ -1,0 +1,10 @@
+/home/p0isonedpanda/Documents/Projects/PrimeCalculator/bin/Debug/netcoreapp2.0/PrimeCalculator.deps.json
+/home/p0isonedpanda/Documents/Projects/PrimeCalculator/bin/Debug/netcoreapp2.0/PrimeCalculator.runtimeconfig.json
+/home/p0isonedpanda/Documents/Projects/PrimeCalculator/bin/Debug/netcoreapp2.0/PrimeCalculator.runtimeconfig.dev.json
+/home/p0isonedpanda/Documents/Projects/PrimeCalculator/bin/Debug/netcoreapp2.0/PrimeCalculator.dll
+/home/p0isonedpanda/Documents/Projects/PrimeCalculator/bin/Debug/netcoreapp2.0/PrimeCalculator.pdb
+/home/p0isonedpanda/Documents/Projects/PrimeCalculator/obj/Debug/netcoreapp2.0/PrimeCalculator.csproj.CoreCompileInputs.cache
+/home/p0isonedpanda/Documents/Projects/PrimeCalculator/obj/Debug/netcoreapp2.0/PrimeCalculator.AssemblyInfoInputs.cache
+/home/p0isonedpanda/Documents/Projects/PrimeCalculator/obj/Debug/netcoreapp2.0/PrimeCalculator.AssemblyInfo.cs
+/home/p0isonedpanda/Documents/Projects/PrimeCalculator/obj/Debug/netcoreapp2.0/PrimeCalculator.dll
+/home/p0isonedpanda/Documents/Projects/PrimeCalculator/obj/Debug/netcoreapp2.0/PrimeCalculator.pdb
